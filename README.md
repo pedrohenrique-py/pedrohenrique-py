@@ -1,16 +1,25 @@
-## Hi there 👋
+# Pedro Henrique 👨‍💻
 
-<!--
-**pedrohenrique-py/pedrohenrique-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Informática | 1º Ano de Curso** 📚
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim 🚀
+
+Estudante apaixonado por tecnologia, focado em aprimorar minhas habilidades e contribuir com projetos de desenvolvimento. Interesso-me por desenvolvimento web e programação em Python.
+
+---
+
+## Habilidades 🛠️
+
+- 🌐 HTML
+- 🎨 CSS
+- ⚙️ JavaScript
+- 🐍 Python
+
+---
+
+## Contato 📬
+
+- **Email**: pedrohenriqueluzalbuquerq@gmail.com
+- **GitHub**: [github.com/seuusuario](https://github.com/pedrohenrique-py)
