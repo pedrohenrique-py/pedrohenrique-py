@@ -22,4 +22,4 @@ Estudante apaixonado por tecnologia, focado em aprimorar minhas habilidades e co
 ## Contato 📬
 
 - **Email**: pedrohenriqueluzalbuquerq@gmail.com
-- **GitHub**: [github.com/seuusuario](https://github.com/pedrohenrique-py)
+- **GitHub**: [github.com/pedrohenrique-py](https://github.com/pedrohenrique-py)
