@@ -1,12 +1,12 @@
 # Pedro Henrique 👨‍💻
 
-**Estudante de Informática | 1º Ano de Curso** 📚
+**Estudante de Informática | 2º Ano de Curso** 📚
 
 ---
 
 ## Sobre Mim 🚀
 
-Estudante apaixonado por tecnologia, focado em aprimorar minhas habilidades e contribuir com projetos de desenvolvimento. Interesso-me por desenvolvimento web e programação em Python.
+Estudante focado em aprimorar minhas habilidades e contribuir com projetos de desenvolvimento. Interesso-me por desenvolvimento web e programação em Python e Javascript.
 
 ---
 
