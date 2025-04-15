@@ -23,3 +23,4 @@ Estudante focado em aprimorar minhas habilidades e contribuir com projetos de de
 
 - **Email**: pedrohenriqueluzalbuquerq@gmail.com
 - **GitHub**: [github.com/pedrohenrique-py](https://github.com/pedrohenrique-py)
+- **Instagram**: [instagram.com/peedroh.albuquerque](http://instagram.com/peedroh.albuquerque)
